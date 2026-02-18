@@ -16,6 +16,5 @@ Thats all tags are devided into two part thats are<br>
  <strong> span,a,img,button,input,label,small,strong,em,nark,ins,dlt,sub,sup</strong>
 
  <p> this section I learn about <strong> Semantic Element</strong> that use to make design much more descriptive</p>
- <img src="![semantic element](https://github.com/user-attachments/assets/e0ab61af-bd3d-4943-8bca-31e01cd4ee16)
-">
-![semantic element](https://github.com/user-attachments/assets/29a0d70e-6deb-44e5-aa91-f28c209f3f0b)
+ 
+(https://github.com/user-attachments/assets/29a0d70e-6deb-44e5-aa91-f28c209f3f0b)
