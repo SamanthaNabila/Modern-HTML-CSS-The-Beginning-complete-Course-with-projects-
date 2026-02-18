@@ -7,3 +7,10 @@ Thats all tags are devided into two part thats are<br>
 <li>Block Elements </li>
 <li>Inline Element</li>
 <ul>
+</ul>
+  <h2>Bolock Eliment</h2>
+  
+ <strong>div,p,(h1....h6),ul,ol,li,table,form,header,footer,section,nav,article,aside,blockquote</strong> <br>
+ <h2>Inline Element</h2>
+
+ <strong> span,a,img,button,input,label,small,strong,em,nark,ins,dlt,sub,sup</strong>
